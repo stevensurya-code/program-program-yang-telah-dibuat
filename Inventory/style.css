@@ -1,0 +1,31 @@
+table,td,th,tr{
+	border: 1px solid black;
+}
+
+.container{
+	margin-top: 10px;
+	background-color: white;
+}
+
+.Menu{
+	color: red;
+	width: 100%;
+	background-color: Teal;
+}
+a{
+	margin: 10px;
+	width: 100%;
+}
+
+.isi{
+	margin-top: 100px;
+	width: auto;
+	background-color: lightblue;
+}
+but1{
+	background-color: lightblue;
+	width: 100px;
+}
+h1{
+	font-family:Book Antiqua;
+}
